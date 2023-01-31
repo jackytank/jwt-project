@@ -1,0 +1,29 @@
+[
+    {
+        "id": 100001,
+        "username": "generaldirector",
+        "password": "1221",
+        "gender": 1,
+        "role": 0
+    },
+    {
+        "id": 100003,
+        "username": "groupleader",
+        "password": "1221",
+        "gender": 1
+    },
+    {
+        "id": 100001,
+        "username": "admin",
+        "password": "1221",
+        "gender": 1,
+        "role": 2
+    },
+    {
+        "id": 100002,
+        "username": "member",
+        "password": "1221",
+        "gender": 1,
+        "role": 3
+    }
+]
